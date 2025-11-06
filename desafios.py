@@ -5,7 +5,7 @@ Neste arquivo você encontrará funções **incompletas** que representam
 tarefas relacionadas ao aprendizado de Git e GitHub.
 
 Seu objetivo é:
-- Criar uma issue para cada função.
+-rr
 - Implementar a função em uma branch específica.
 - Fazer commit, criar tag e abrir Pull Request.
 - Repetir o processo até concluir todas as funções.
