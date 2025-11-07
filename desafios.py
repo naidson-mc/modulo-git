@@ -58,4 +58,5 @@ def gerar_relatorio_final(funcoes_concluidas):
     ->
     "Desafio concluído! 2 funções implementadas com sucesso."
     """
-    pass
+    quantidade = len(funcoes_concluidas)
+    return f"Desafio concluído! {quantidade} função{'s' if quantidade != 1 else ''} implementada{'s' if quantidade != 1 else ''} com sucesso."
